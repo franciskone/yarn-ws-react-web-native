@@ -4,5 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:franciskone/yarn-ws-react-web-native.git",
   "author": "Francesco Cappelli",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["shared", "exampleexpo", "exampleweb"]
 }
